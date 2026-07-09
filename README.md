@@ -1,0 +1,24 @@
+#Offensive Security & Bug Bounty
+
+**Bug Bounty Researcher** | Top 2% TryHackMe | 20+ Validated Findings
+Focus: XSS, IDOR, Business Logic Flaws, API Security
+
+### Current Focus
+- Bug Bounty: YesWeHack, Bugcrowd
+- LLM Security & AI Red Teaming (long-term)
+- Powerlifting + Technology 
+
+### Toolchain
+- Caido, Nuclei, Burp, katana, jwt_tool
+- Custom: Quick JS Switcher, GLITCHROT (Image Forensics)
+- Data Scraping: amass, brutespray
+- LLM assistent focus in sec
+
+
+### Recent Findings
+- [Gojek/YWH] Business Logic Flaw (CVSS 8.5+)
+- [ENGIE EGMA/YWH] Multiple IDOR/BOLA (CVSS 7.5+)
+- [Dock/BUGPAY] Config disclosure across 36+ subdomains (CVSS 6.5+)
+- [Infomaniak/YWH] DOM XSS via upload file (CVSS 8.0+)
+
+[TryHackMe Profile] https://tryhackme.com/p/gd3n
