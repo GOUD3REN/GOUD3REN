@@ -7,13 +7,18 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 ### Current Focus
 - Bug Bounty: YesWeHack, Bugcrowd
 - LLM Security & AI Red Teaming (long-term)
-- Powerlifting + Technology 
+- Powerlifting + Technology
+- Software Engineering
 
 ### Toolchain
 - Caido, Nuclei, Burp, katana, jwt_tool
 - Custom: Quick JS Switcher, GLITCHROT (Image Forensics)
 - Data Scraping: amass, brutespray
 - LLM assistent focus in sec
+
+### My Frameworks
+- Bug Lifecycle Framework in 8 layers
+- Business Logic Flaw in 5 layers
 
 
 ### Recent Findings
@@ -74,6 +79,6 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 ⢚⠭⠒⢉⡀⠴⠚⢉⣉⣠⣤⣤⣤⣶⣶⣶⣶⣶⣤⣭⣍⣙⣛⠒⣦⣤⣶⣿⣿⣶⣶⣶⣯⣆⡈⠛⠛⣛⣉⣉⣁⣀⣀⣀⣀⣀⣀⣀⣀⠈⠉⠉⠓⠒⠤⢄⣀⡀⠉⠑⠛⠤⠏⣉⠟⠛⢻⡿⠿⢿⠌⣿⡿⣿⣿⠿⠿⢿⣷⡰⣦⣶⣆⠀⠀⠀⠀⠀⠀⠀⠀
 ⣀⠤⠊⠁⣠⣠⣞⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⣿⣿⣿⣿⣿⣿⣿⣿⡷⡜⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣀⡉⠙⠒⠤⢤⣀⡀⠀⠈⠁⠀⠐⠒⠂⢿⡀⠒⠂⠀⠀⠀⠀⠁⢘⡃⠐⠀⠀⠀⠀⠀⠀⠀⠀
 ⡡⡠⣈⠦⡿⢜⣿⡿⣾⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢸⣿⣿⣿⣿⣿⣿⣿⣿⡇⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣤⣀⣉⡉⠓⠒⠒⠀⠶⢀⡛⢊⣀⣀⣀⣀⠀⢀⡂⠤⠤⠤⠤⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-Sacrifice | Goud3ren⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                     +== SACRIFICE | GOUD3REN ==-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
