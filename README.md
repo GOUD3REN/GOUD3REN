@@ -13,7 +13,7 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 - Caido, Nuclei, Burp, katana, jwt_tool
 - Custom: Quick JS Switcher, GLITCHROT (Image Forensics)
 - Data Scraping: amass, brutespray
-- LLM assistent focus in sec
+- LLM assistent focus in security + bug bounty
 
 ### My Frameworks
 - Bug Lifecycle Framework in 8 layers
