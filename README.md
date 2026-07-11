@@ -8,8 +8,7 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 - Bug Bounty: YesWeHack, Bugcrowd
 - LLM Security & AI Red Teaming (long-term)
 - Powerlifting + Technology
-- Software Engineering
-
+- Software Engineering -> Red Team Ops
 ### Toolchain
 - Caido, Nuclei, Burp, katana, jwt_tool
 - Custom: Quick JS Switcher, GLITCHROT (Image Forensics)
