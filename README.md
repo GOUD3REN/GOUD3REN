@@ -21,8 +21,8 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 
 ###Programming Languages
 - Python
--C++
--GO
+- C++
+- GO
 
 ### Recent Findings
 - [Gojek/YWH] Business Logic Flaw (CVSS 8.5+)
