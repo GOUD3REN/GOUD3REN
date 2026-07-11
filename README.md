@@ -7,7 +7,7 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 ### Current Focus
 - Bug Bounty: YesWeHack, Bugcrowd
 - LLM Security & AI Red Teaming (long-term)
-- Powerlifting + Technology
+- Powerlifting + Technology + Digital Forensics 
 - Software Engineering -> Red Team Ops
 ### Toolchain
 - Caido, Nuclei, Burp, katana, jwt_tool
@@ -19,6 +19,10 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 - Bug Lifecycle Framework in 8 layers
 - Business Logic Flaw in 5 layers
 
+###Programming Languages
+- Python
+-C++
+-GO
 
 ### Recent Findings
 - [Gojek/YWH] Business Logic Flaw (CVSS 8.5+)
