@@ -9,6 +9,7 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 - LLM Security & AI Red Teaming (long-term)
 - Powerlifting + Technology + Digital Forensics 
 - Software Engineering -> Red Team Ops
+
 ### Toolchain
 - Caido, Nuclei, Burp, katana, jwt_tool
 - Custom: Quick JS Switcher, GLITCHROT (Image Forensics)
