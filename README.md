@@ -20,7 +20,7 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 - Bug Lifecycle Framework in 8 layers
 - Business Logic Flaw in 5 layers
 
-###Programming Languages
+### Programming Languages
 - Python
 - C++
 - GO
