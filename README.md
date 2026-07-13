@@ -5,7 +5,7 @@
 Focus: XSS, IDOR, Business Logic Flaws, API Security
 
 ### Current Focus
-- Bug Bounty: YesWeHack, BugPay, Intigriti, Bugex, Bugcrowd, Hackerone.
+- Bug Bounty: YesWeHack, Intigriti, Bugex, Bugcrowd, Hackerone, BugPay.
 - LLM Security & AI Red Teaming (long-term)
 - Powerlifting + Technology + Digital Forensics 
 - Software Engineering -> Red Team Ops
