@@ -30,6 +30,7 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 - [ENGIE EGMA/YWH] Multiple IDOR/BOLA (CVSS 7.5+)
 - [Dock/BUGPAY] Config disclosure across 36+ subdomains (CVSS 6.5+)
 - [Infomaniak/YWH] DOM XSS via upload file (CVSS 8.0+)
+- [MacDonalds/Bugcrowd] HTML Injection via email (5.5+)
 
 [TryHackMe Profile] https://tryhackme.com/p/gd3n
 ```
