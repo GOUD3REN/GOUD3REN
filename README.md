@@ -23,6 +23,7 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 ### Programming Languages
 - Python
 - C++
+- JavaScript
 - GO
 
 ### Recent Findings
