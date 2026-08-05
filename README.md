@@ -30,6 +30,7 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 - [Gojek/YWH] Business Logic Flaw (CVSS 8.5+)
 - [Dock/BUGPAY] Config disclosure across 36+ subdomains (CVSS 6.5+)
 - [MacDonalds/Bugcrowd] HTML Injection (CVSS 5.5+)
+- [Engie/YWH} - Business Logic Error (CVSS 4.0+)
 
 [TryHackMe Profile] https://tryhackme.com/p/gd3n
 ```
