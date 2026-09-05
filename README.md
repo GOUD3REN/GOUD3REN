@@ -32,7 +32,7 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security
 - [MacDonalds/Bugcrowd] HTML Injection (CVSS 5.5+)
 - [Rendez/YWH] Auth Bypass (CVSS 8.0+)
 - [Content Square/YWH] Improper Access Control (CVSS 7.5+)
-- [Sekta/Standoff365]  Bypass OTP (CVSS 7.0+)
+- [Sekta/Standoff365]  OTP Bypass (CVSS 7.0+)
 
 [TryHackMe Profile] https://tryhackme.com/p/gd3n
 ```
