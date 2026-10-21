@@ -1,7 +1,7 @@
 ```markdown
 ## Offensive Security & Bug Bounty
 
-**Bug Bounty Researcher** | Top 2% TryHackMe | 20+ Validated Findings
+**Bug Bounty Researcher** | Top 1% TryHackMe | 25+ Validated Findings
 Focus: XSS, IDOR, Business Logic Flaws, API Security
 
 ### Current Focus
