@@ -25,7 +25,7 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security, LLM Red Teaming
 - Python
 - C++
 - JavaScript
-- GO
+- Go
 
 ### Best Findings
 - [Gojek / YWH] Business Logic Flaw (CVSS 8.5+)
