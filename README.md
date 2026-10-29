@@ -15,7 +15,6 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security, LLM Red Teaming
 - Recon & Scraping: Amass, brutespray, custom shell scripts for automated vulnerability testing (XSS, Open Redirect, Email Validation Bypass)
 - Custom Tools: 
   - **HackBot**: LLM-driven security assistant for automated HTTP request analysis, vulnerability correlation, and structured testing flows.
-  - Quick JS Switcher
   - GLITCHROT (Image Forensics)
 
 ### My Frameworks
@@ -24,9 +23,9 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security, LLM Red Teaming
 
 ### Programming Languages
 - Python
-- Go
-- JavaScript
 - C++
+- JavaScript
+- GO
 
 ### Best Findings
 - [Gojek / YWH] Business Logic Flaw (CVSS 8.5+)
@@ -38,7 +37,7 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security, LLM Red Teaming
 - [McDonald's / Bugcrowd] HTML Injection (CVSS 5.5+) P3
 
 ### Reporting & Methodology
-- Focus on dense, structured, and high-impact vulnerability reports with concrete PoCs (e.g., real-time session manipulation, privilege escalation).
+- Focus on dense, structured, and high-impact vulnerability reports with concrete PoCs.
 
 [TryHackMe Profile] https://tryhackme.com/p/gd3n
 ```
