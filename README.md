@@ -14,7 +14,7 @@ Focus: XSS, IDOR, Business Logic Flaws, API Security, LLM Red Teaming
 - Core: Caido, Burp Suite, Nuclei, Katana, jwt_tool
 - Recon & Scraping: Amass, brutespray, custom shell scripts for automated vulnerability testing (XSS, Open Redirect, Email Validation Bypass)
 - Custom Tools: 
-  - **HackBot**: LLM-driven security assistant for automated HTTP request analysis, vulnerability correlation, and structured testing flows.
+   - **HackBot**: Local LLM-driven security agent (OpenCode/Armada-based) orchestrating dynamic recon and exploitation. Features human-in-the-loop browser control (Interceptor + Caido MCP) to bypass anti-bot (Cloudflare/Akamai/DataDome), integrated with JS Scout, Mapap, ffuf, and a local SQLite triage DB with encrypted canonical exports (`age`).
   - GLITCHROT (Image Forensics)
 
 ### My Frameworks
