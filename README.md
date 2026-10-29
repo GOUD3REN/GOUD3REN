@@ -2,38 +2,43 @@
 ## Offensive Security & Bug Bounty
 
 **Bug Bounty Researcher** | Top 1% TryHackMe | 25+ Validated Findings
-Focus: XSS, IDOR, Business Logic Flaws, API Security
+Focus: XSS, IDOR, Business Logic Flaws, API Security, LLM Red Teaming
 
 ### Current Focus
-- Bug Bounty: YesWeHack, Intigriti, Bugex, Bugcrowd, Hackerone, BugPay.
+- Bug Bounty: YesWeHack, Intigriti, Bugex, Bugcrowd, HackerOne, BugPay.
 - LLM Security & AI Red Teaming (long-term)
 - Powerlifting + Technology + Digital Forensics 
 - Software Engineering -> Red Team Ops
 
-### Toolchain
-- Caido, Nuclei, Burp, katana, jwt_tool
-- Custom: Quick JS Switcher, GLITCHROT (Image Forensics)
-- Data Scraping: amass, brutespray
-- LLM assistent focus in security + bug bounty
+### Toolchain & Automation
+- Core: Caido, Burp Suite, Nuclei, Katana, jwt_tool
+- Recon & Scraping: Amass, brutespray, custom shell scripts for automated vulnerability testing (XSS, Open Redirect, Email Validation Bypass)
+- Custom Tools: 
+  - **HackBot**: LLM-driven security assistant for automated HTTP request analysis, vulnerability correlation, and structured testing flows.
+  - Quick JS Switcher
+  - GLITCHROT (Image Forensics)
 
 ### My Frameworks
-- Bug Lifecycle Framework in 8 layers
-- Business Logic Flaw in 5 layers
+- Bug Lifecycle Framework (8 layers): End-to-end methodology from passive recon to impact demonstration.
+- Business Logic Flaw Framework (5 layers): Systematic approach to uncovering complex logic flaws missed by automated scanners.
 
 ### Programming Languages
 - Python
-- C++
+- Go
 - JavaScript
-- GO
+- C++
 
-### Bests Findings
-- [Gojek/YWH] Business Logic Flaw (CVSS 8.5+)
-- [Dock/BUGPAY] Config disclosure across 36+ subdomains (CVSS 7.5+)
-- [MacDonalds/Bugcrowd] HTML Injection (CVSS 5.5+) P3
-- [Rendez/YWH] Auth Bypass (CVSS 8.0+)
-- [Content Square/YWH] Improper Access Control (CVSS 7.5+)
-- [Sekta/Standoff365]  OTP Bypass (CVSS 7.0+)
-- [Octopus/Bugcrowd] Stored XSS via Markdown link-scheme injection (CVSS 8.0+) P2
+### Best Findings
+- [Gojek / YWH] Business Logic Flaw (CVSS 8.5+)
+- [Octopus Deploy / Bugcrowd] Stored XSS via Markdown link-scheme injection (CVSS 8.0+) P2
+- [Rendez / YWH] Auth Bypass (CVSS 8.0+)
+- [Dock / BUGPAY] Config disclosure across 36+ subdomains (CVSS 7.5+)
+- [Content Square / YWH] Improper Access Control (CVSS 7.5+)
+- [Sekta / Standoff365] OTP Bypass (CVSS 7.0+)
+- [McDonald's / Bugcrowd] HTML Injection (CVSS 5.5+) P3
+
+### Reporting & Methodology
+- Focus on dense, structured, and high-impact vulnerability reports with concrete PoCs (e.g., real-time session manipulation, privilege escalation).
 
 [TryHackMe Profile] https://tryhackme.com/p/gd3n
 ```
